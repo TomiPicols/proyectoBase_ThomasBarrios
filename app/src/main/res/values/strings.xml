@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">proyectoBase_ThomasBarrios</string>
+    <string name="calcular">Calcular</string>
+    <string name="bienvenido_a_biofit">Bienvenido a Biofit</string>
+    <string name="textview">TextView</string>
+    <string name="biofit_es_la_herramienta_fitness_definitiva_que_te_ayudara_en_este_casoa_gestionar_de_mejor_forma_tus_insumos_podras_realizar_el_calculo_por_costo_de_mantencion_de_cada_uno_de_ellos_de_forma_rapida_y_sencilla">Biofit es la herramienta fitness definitiva que te ayudara en este casoa gestionar de mejor forma tus insumos, podras realizar el calculo por costo de mantencion de cada uno de ellos de forma rapida y sencilla.</string>
+    <string name="todo">TODO</string>
+    <string name="ingrese_usuario">Ingrese Usuario</string>
+    <string name="ingrese_contrase_a">Ingrese Contraseña</string>
+    <string name="copyrigth_biofit_todos_los_derechos_reservados_2022">Copyrigth BioFit todos los derechos reservados 2022</string>
+    <string name="salir_de_biofit">Salir de Biofit</string>
+    <string name="iniciar_sesion">Iniciar Sesion</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
